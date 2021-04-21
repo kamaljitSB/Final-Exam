@@ -26,6 +26,10 @@
         color: white;
     }
 
+    h2,h3{
+        text-align: center;
+    }
+
     div.shop-item {
         vertical-align: top;
         display: flex;
